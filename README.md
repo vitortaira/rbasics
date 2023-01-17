@@ -1,2 +1,3 @@
-# rbasics
-Código de um curso online da HarvardX sobre o básico de R.
+# Data Science R Basics
+
+Código do curso online da HarvardX.
